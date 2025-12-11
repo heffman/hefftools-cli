@@ -1,0 +1,19 @@
+[project]
+name = "hefftools-cli"
+version = "0.1.0"
+description = "CLI for the HeffTools.dev APIs"
+readme = "README.md"
+requires-python = ">=3.7"
+license = { text = "MIT" }
+authors = [
+  { name="HeffTools", email="support@hefftools.dev" }
+]
+
+dependencies = [
+    "click",
+    "requests"
+]
+
+[project.scripts]
+hefftools = "hefftools_cli:cli"
+
