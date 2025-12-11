@@ -21,16 +21,24 @@ This CLI provides quick local utilities while also serving as an open-source ent
 
 🚀 Quick Examples
 Generate 5 UUIDs
-```hefftools uuid --count 5```
+```
+hefftools uuid --count 5
+```
 
 Generate a password
-```hefftools password --length 16 --charset strong```
+```
+hefftools password --length 16 --charset strong
+```
 
 URL encode
-```hefftools urlencode "https://hefftools.dev/?q=hello world"```
+```
+hefftools urlencode "https://hefftools.dev/?q=hello world"
+```
 
 Subnet calculator
-```hefftools subnet 192.168.1.0/24```
+```
+hefftools subnet 192.168.1.0/24
+```
 
 📚 Why This Project Exists
 
