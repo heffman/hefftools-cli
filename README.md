@@ -17,7 +17,9 @@ And more tools as the API expands
 This CLI provides quick local utilities while also serving as an open-source entry point to the HeffTools API ecosystem.
 
 📦 Installation
-(coming soon)
+```
+pip install git+https://github.com/heffman/hefftools-cli.git
+```
 
 🚀 Quick Examples
 Generate 5 UUIDs
