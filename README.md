@@ -12,6 +12,6 @@ A lightweight command-line interface for interacting with the HeffTools.dev API,
 And more tools as the API expands
 
 👉 Website: https://hefftools.dev
-👉 API Documentation: https://rapidapi.com/hefftools/api/hefftools
+👉 API Documentation: https://rapidapi.com/heffman/api/hefftools-devops-utilities
 
 This CLI provides quick local utilities while also serving as an open-source entry point to the HeffTools API ecosystem.
